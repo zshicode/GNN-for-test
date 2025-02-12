@@ -1,6 +1,6 @@
 # Latent variable GNN
 
-This repository consists some models tentatively work for the combination of latent variable inference and graph neural networks.
+This repository consists some models tentatively work for graph neural networks.
 
 ## Contents
 
